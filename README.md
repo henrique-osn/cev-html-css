@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://programadorbr.com/"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" style="width: 5em"/></a>
+    <a href="https://www.cursoemvideo.com/"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" style="width: 5em"/></a>
     <br/>
     HTML5 e CSS3 | Curso em Vídeo
 </h1>
